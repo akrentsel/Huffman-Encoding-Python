@@ -1,7 +1,7 @@
 class HuffmanFactory:
 	"""Class used to create a Huffman tree and compress the input text based on that huffman tree. 
 
-	>>> imoort HuffmanCompression
+	>>> import HuffmanCompression
 	>>> sample_input = "sample"
 	>>> huff = HuffmanCompression.HuffmanFactory(sample_input)
 	>>> print(huff.compressed_string)
