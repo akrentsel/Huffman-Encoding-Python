@@ -1,4 +1,4 @@
-# Huffman-Encoding
+# Huffman-Encoding-Python
 Simple implementation of the Huffman Encoding compression system.
 
 # Explanation
